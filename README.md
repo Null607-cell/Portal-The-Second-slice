@@ -1,3 +1,5 @@
+<img width="1980" height="707" alt="SECOND SLICE LOGOleg" src="https://github.com/user-attachments/assets/612de2e1-598a-4daf-94c8-c4326b80479e" />
+
 # EXPERIENCE THE PORTAL 2 THAT NEVER WAS.
 
 
