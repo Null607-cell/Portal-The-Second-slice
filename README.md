@@ -6,7 +6,9 @@ _"Imagine a alternative universe where Portal 2 had the same atmosphere and aest
 as the original Portal and where it still had that sense of creepiness and vibe it gave off."_
 
 
-> **About the mod** <
+> **About the mod** 
+
+
 
 Portal: The Second Slice is a free modification that attempts to continue the events of the
 original Portal right after GLaDOS's destruction. Unlike Portal 2, this mod aims to retain the
@@ -22,12 +24,16 @@ on how the source engine works. A Demo is available of chapter one on ModDB, alt
 and does not have the aforementioned engine branch and we longer use ModDB. And a lot of changes
 has been made since the demo has been released and we do plan on releasing a new version pretty soon, so stay tuned!
 
-> **This page** <
+
+
+> **This page** 
 
 Main Github page for PTSS, a free modification for Portal 1 that faithully continues the storyline of the orginal Portal game.
 Here we'll release the lastest versions of this mod, where you install and play it for free like any other SRC mod.
 
-> **Other links** <
+
+
+> **Other links** 
 
 Discord: https://discord.gg/xADwXeas36
 
