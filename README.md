@@ -9,7 +9,7 @@ _"Imagine a alternative universe where Portal 2 had the same atmosphere and aest
 as the original Portal and where it still had that sense of creepiness and vibe it gave off."_
 
 
-> **About the mod** 
+> **What's the mod all about?** 
 
 
 
@@ -29,11 +29,10 @@ has been made since the demo has been released and we do plan on releasing a new
 
 
 
-> **This page** 
+> **About this page** 
 
-Main Github page for PTSS, a free modification for Portal 1 that faithully continues the storyline of the orginal Portal game.
-Here we'll release the lastest versions of this mod, where you install and play it for free like any other SRC mod.
-
+This is the main Github page for Portal: The Second Slice (PTSS), Files will appear here, when we release a new build/demo.
+We'll also probably make a website pretty soon which were gonna host on github.
 
 
 > **Other links** 
