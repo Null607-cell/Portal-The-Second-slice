@@ -37,7 +37,7 @@ We'll also probably make a website pretty soon which were gonna host on github.
 
 > **Other links** 
 
-Discord: https://discord.gg/xADwXeas36
+Discord: https://discord.gg/4tUKkNjXzT
 
 Join the discord server to interact with the community and recive the lastest news about this mod
 
